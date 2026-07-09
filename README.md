@@ -16,8 +16,8 @@ The URL Checker is a GUI application for checking the HTTP response of URLs from
 ## Requirements
 
 - Python 3.11
-- pandas
-- requests==2.31.0
+- pandas~=2.2.3
+- requests~=2.33.0
 
 ## Installation
 
